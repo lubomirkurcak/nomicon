@@ -4,7 +4,7 @@
 
 Warning:
 This book is incomplete.
-Documenting everything and rewriting outdated parts take a while.
+Documenting everything and rewriting outdated parts takes a while.
 See the [issue tracker] to check what's missing/outdated, and if there are any mistakes or ideas that haven't been reported, feel free to open a new issue there.
 
 </div>
